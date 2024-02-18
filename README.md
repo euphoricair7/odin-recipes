@@ -6,4 +6,4 @@ My expectation from this projec is to try tp create a Brutalist type of design a
     - different image usages
     - correct usage of relative and absolute links
     - including proper text expression
-    
+    - 
